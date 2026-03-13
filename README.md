@@ -127,11 +127,12 @@ BOT_2_FILE = './bot.py'   # or another bot file
 │   └── states.py       # GameInfo & PokerState definitions
 └── assets/             # Documentation assets
     └── competition_results.png
+    └──leaderboard_position.png
 ```
 
 ---
 
-## 🔧 Technical Details
+## Technical Details
 
 ### Time Management
 
