@@ -15,6 +15,9 @@ We achieved the **127th rank** among 461 teams in the competition. We did not qu
   <img src="assets/competition_results.png" alt="Competition Results — Rank #127, 315W / 152L" width="700"/>
 </p>
 
+<p align="center">
+  <img src="assets/image.png" alt="Profile" width="700"/>
+</p>
 ---
 
 ## Competition Results
