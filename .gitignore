@@ -1,14 +1,32 @@
-# Python artifacts
+# Python
 __pycache__/
+*.pyc
+*.pyo
 
 # Virtual environments
 venv/
 .venv/
+env/
 
 # OS metadata
 .DS_Store
+Thumbs.db
+desktop.ini
 
-# Logs
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Game logs (generated at runtime)
 logs/
 *.glog
 *.plog
+
+# Development artifacts (not needed in clean repo)
+analysis/
+bot_attempts/
+comp_logs/
+test_log/
+temp_*.py

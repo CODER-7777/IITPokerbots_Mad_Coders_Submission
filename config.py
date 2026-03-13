@@ -1,11 +1,11 @@
-PYTHON_CMD = "python"
-# For linux and mac, the code python cmd is sometimes 'python3' instead of 'python'
+import os
 
-BOT_1_NAME = 'BotA'
-BOT_1_FILE = './example_bot.py'
+PYTHON_CMD = os.path.join(os.path.dirname(__file__), "venv", "Scripts", "python.exe")
 
-BOT_2_NAME = 'BotB'
-BOT_2_FILE= './example_bot.py'
+BOT_1_NAME = 'MadCoders'
+BOT_1_FILE = './bot.py'
 
-# GAME PROGRESS IS RECORDED HERE
+BOT_2_NAME = 'Opponent'
+BOT_2_FILE = './bot.py'
+
 GAME_LOG_FOLDER = './logs'
