@@ -5,6 +5,12 @@
 An autonomous poker bot built for the [IIT Pokerbots 2026](https://www.iitpokerbots.com/) competition, playing a custom variant called **Sneak Peek Hold'em** — a heads-up No-Limit Texas Hold'em variant with a unique **Vickrey auction** mechanic that allows players to bid for a peek at one of their opponent's hole cards.
 The link for the original bot engine repository is [IIT Pokerbots 2026 bot engine](https://github.com/iitpokerbots/bot-engine-2026)
 
+We achieved the **127th rank** among 461 teams in the competition. We did not qualify for the next round, but here is our attempt at it. Hopefully, we will do better next year!
+
+<p align="center">
+  <img src="assets/leaderboard_position.png" alt="Leaderboard Position" width="700"/>
+</p>
+
 <p align="center">
   <img src="assets/competition_results.png" alt="Competition Results — Rank #127, 315W / 152L" width="700"/>
 </p>
