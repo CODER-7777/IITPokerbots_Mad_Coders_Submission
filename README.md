@@ -19,6 +19,9 @@ We achieved the **127th rank** among 461 teams in the competition. We did not qu
   <img src="IIT_Pokerbots_Certificate.png" alt="IIT Pokerbots Certificate" width="700"/>
 </p>
 
+<p align="center">
+  <img src="assets/image.png" alt="Profile" width="500"/>
+</p>
 ---
 
 ## Competition Results
