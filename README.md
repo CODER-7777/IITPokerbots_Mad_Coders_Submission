@@ -8,6 +8,10 @@ The link for the original bot engine repository is [IIT Pokerbots 2026 bot engin
 We achieved the **127th rank** among 461 teams in the competition. We did not qualify for the next round, but here is our attempt at it. Hopefully, we will do better next year!
 
 <p align="center">
+  <img src="assets/profiles/profile.jpeg" alt="Profile" width="700"/>
+</p>
+
+<p align="center">
   <img src="assets/leaderboard_position.png" alt="Leaderboard Position" width="700"/>
 </p>
 
@@ -16,10 +20,10 @@ We achieved the **127th rank** among 461 teams in the competition. We did not qu
 </p>
 
 <p align="center">
-  <img src="IIT_Pokerbots_Certificate_Vivekananda.png" alt="IIT Pokerbots Certificate" width="700"/>
+  <img src="assets/certificates/IIT_Pokerbots_Certificate_Vivekananda.png" alt="IIT Pokerbots Certificate - Vivekananda" width="700"/>
 </p>
 <p align="center">
-  <img src="IIT_PokerBots_Certificate_Ramcharan.jpg" alt="IIT Pokerbots Certificate" width="700"/>
+  <img src="assets/certificates/IIT_PokerBots_Certificate_Ramcharan.jpg" alt="IIT Pokerbots Certificate - Ramcharan" width="700"/>
 </p>
 
 
