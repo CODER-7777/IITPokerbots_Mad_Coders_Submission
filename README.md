@@ -169,5 +169,5 @@ This project was developed for the IIT Pokerbots 2026 competition. The game engi
 ---
 
 <p align="center">
-  Built by <strong>Mad Coders</strong>
+  Built by <strong>Mad_Coders</strong>
 </p>
